@@ -1,0 +1,26 @@
+GET http://localhost:5051/products
+
+###
+GET http://localhost:5051/products/1
+
+###
+POST http://localhost:5051/products/create
+# Content-Type: application/json
+
+# { 
+#     "id": -1,
+#     "name": "Cantaloupe", 
+#     "price": 300
+# }
+
+###
+PUT http://localhost:5051/products/update/1
+# Content-Type: application/json
+
+# {
+#     "Name": "Idared Red",
+#     "Price": 600
+# }
+
+###
+DELETE http://localhost:5051/products/delete/21

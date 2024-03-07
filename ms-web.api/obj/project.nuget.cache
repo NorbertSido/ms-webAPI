@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yBHPfRht1Cz91XlmaEim0bPTyuQUgqTAjRKZVhxDIAbYYMyzwcTC2ob/YRHMpaECgZJn4IHgZ66bGrkANT9aEw==",
+  "success": true,
+  "projectFilePath": "E:\\Programozas\\Projektek\\Allas-probafeladatok\\ms-webAPI\\ms-web.api\\ms-web.api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Norbi\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\Norbi\\.nuget\\packages\\minimalapis.extensions\\0.11.0\\minimalapis.extensions.0.11.0.nupkg.sha512",
+    "C:\\Users\\Norbi\\.nuget\\packages\\minivalidation\\0.8.0\\minivalidation.0.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
